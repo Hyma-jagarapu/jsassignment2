@@ -1,0 +1,12 @@
+#callback{
+    background-color: rgb(176, 123, 227);
+    text-align: center;
+}
+button{
+    background-color: yellow;
+    border-radius: 10px;
+}
+#result{
+    position:absolute;
+    left:400px;
+}
